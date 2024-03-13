@@ -19,5 +19,9 @@ No puedo hacerlo -> Dentro de poco podré hacerlo
 Es muy difícil -> Cuando empiezas todo parece difícil
 Estoy no es para mi -> Si logro hacer esto, imagínate qué otras cosas podré lograr...
 
+## Dev Tools
+Steve Jobs pensaba qué
+La computadora es como una bicicleta para la mente.
+
 ## Creación
 - Lunes 11 de marzo de 2024
