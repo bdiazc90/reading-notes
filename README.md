@@ -2,7 +2,9 @@
 Notas de lectura para mis cursos de Enter Tech School.
 
 ## Acerca de mi
-Hola soy Bruno Díaz, soy un apasionado por el software y la creación de productos digitales
+Hola soy Bruno Díaz, soy un apasionado por el software y la creación de productos digitales.
+
+Estoy feliz porque acabo de clonar mi repositorio remoto hacia mi local.
 
 ### Tres curiosidades sobre mi
 - Me encanta viajar a EE.UU.
