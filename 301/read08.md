@@ -1,0 +1,3 @@
+# Clase 08
+1. Persistencia de Datos:
+Deberíamos utilizar LocalStorage para guardar información ...
